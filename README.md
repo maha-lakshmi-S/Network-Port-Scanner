@@ -19,7 +19,9 @@ A Python-based Network Port Scanner that scans a target IP address or domain to 
 1. Open the terminal.
 2. Run the following command:
 
+```bash
 python port_scanner.py
+```
 
 3. Enter:
 - Target IP / Domain
