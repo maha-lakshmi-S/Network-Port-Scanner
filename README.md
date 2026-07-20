@@ -28,13 +28,21 @@ python port_scanner.py
 
 ## Sample Output
 
+```text
 Enter Target IP / Domain: scanme.nmap.org
 Enter Start Port: 20
 Enter End Port: 100
 
+Scanning Target: 45.33.32.156
+----------------------------------------
 Port 80 OPEN (http)
+----------------------------------------
 
 Scan Completed
+Total Open Ports: 1
+Time Taken: 40.91 seconds
+Report saved as scan_report.txt
+```
 
 ## Author
 
