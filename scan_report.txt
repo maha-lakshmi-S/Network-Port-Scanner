@@ -1,0 +1,9 @@
+NETWORK PORT SCAN REPORT
+========================================
+Target : scanme.nmap.org
+IP     : 45.33.32.156
+
+Open Ports:
+
+Total Open Ports : 0
+Time Taken : 9.03 seconds
